@@ -1,0 +1,26 @@
+#small-town{
+    width: 30%; 
+    float: right;
+    padding-left: 15px;
+ }
+ #toronto{
+     width: 100%;
+ }
+ h1, h2{
+     text-align: center;
+ } /*H1 AND H2 HEADINGS SHOULD BE CENTERED ON THE PAGE*/
+ nav {
+     text-align: center;
+     font-size: larger;
+ }
+ .heading {
+     margin-left: 50px;
+     color: #dc5855;
+ }
+ a {
+     color: hsl(248, 53%, 58%);
+ }
+ .contact-info {
+     background-image: url(./assets/pink.jpg);
+     width: 20%;
+ }
